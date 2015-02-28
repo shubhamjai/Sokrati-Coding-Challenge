@@ -1,0 +1,4 @@
+Input tree = {(ROOT, Maharashtra), (ROOT, Karnataka),
+(Maharashtra, Mumbai), (Maharashtra, Pune), (Karnataka, Bangalore), 
+(Mumbai, Worli), (Mumbai, Dadar), (Pune, Kothrud), (Pune, Wakad), (Bangalore, Jayanagar), (Bangalore, JP Nagar)
+}

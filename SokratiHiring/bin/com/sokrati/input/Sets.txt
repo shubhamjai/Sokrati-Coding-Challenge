@@ -1,0 +1,2 @@
+SetA = {Wakad, Jayanagar, Pune, Worli}
+SetB = {Dadar, Bangalore,}

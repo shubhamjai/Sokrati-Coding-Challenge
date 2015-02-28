@@ -1,0 +1,10 @@
+Programming Language : Java
+Java SDK Required: Java 7
+
+Please following following instruction to run the program.
+
+1. Unzip SokratiHiring.zip and import this project in Eclipse IDE.
+2. Run com\sokrati\start\Start.java to run the program.
+3. Input files are present in package com\sokrati\input.
+
+Please follow High level Design for implementation details.
